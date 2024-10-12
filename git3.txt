@@ -1,0 +1,16 @@
+ls-list
+mkdir-make directory
+cd-change directory
+touch name.txt- create new file as txt
+git status-it will check the status of file
+git add- it will add the file in directory
+git commit -m "information"-it will commit into git means your file is already in git track
+vi file name- will take u to inside the file...to save it press-esc.wq!
+cat file name- to see inside the file
+git restore --staged names.txt-to remove from stage
+git log- it will shows entire history
+rm -rf names.txt- it will remove
+git reset commit- it will remove all above commit
+git stash- it brings all the file those were in the back stage which we was not commited
+git remote add origin https://github.com/rahulduari/practice01.git-- to connect with git hub
+git remote -v - this will basicaly show the all url which are attached to the current folder

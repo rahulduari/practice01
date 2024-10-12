@@ -1,0 +1,36 @@
+Networking Concept
+
+1.Open Systems Interconnection model,(OSI) MODEL:
+ Layers:-
+ Application:-this is application layer
+ Presentation :-convert to machine understandable language(Encrypted,abstraction,compressed,translation)
+ session:-Connections are established and managed.
+ transport:-Data is broken into segments for reliable delivery.
+ network:-Segments are packaged into packets and routed.
+ data link:-Packets are framed and sent to the next device.
+ physical:-Frames are converted into bits and transmitted physically
+ 
+ 2.Protocols:
+ Hypertext Transfer Protocol (HTTP) 
+ 3.Domain naming system(DNS):-
+ 4.Ports:-
+ 5.Subnetting:-
+ 6.Routing:-
+ 7.VPN:-
+ 8.firewall and security groups
+ 9.HTTP/HTTPS
+ 8.Netwoking tools:-
+ 
+ 
+ 
+ *IP adress:-
+ -> every ipv4/ipv6 address is 4 bytes =8bits each means 8*4=32 bits size
+ *Subnets:-a logical subdivision of an IP network, or a network within a network
+ *CIDR:-it is basically helps to generate ip adddres's as per our requirement 
+ -> if we require 64 ip address then what should be the range   192.168.0.0/26 cal--32-26=6 --2*2*2*2*2*2=64 
+ 
+ *Port:-a virtual or physical connection point that identifies where a network begins and ends
+ 
+                  
+ 
+ 

@@ -1,0 +1,22 @@
+Networking Concept
+
+1.Open Systems Interconnection model,(OSI) MODEL:
+ Layers:-
+ Application:-this is application layer
+ Presentation :-convert to machine understandable language(Encrypted,abstraction,compressed,translation)
+ session:-Connections are established and managed.
+ transport:-Data is broken into segments for reliable delivery.
+ network:-Segments are packaged into packets and routed.
+ data link:-Packets are framed and sent to the next device.
+ physical:-Frames are converted into bits and transmitted physically
+ 
+ 2.Protocols:
+ Hypertext Transfer Protocol (HTTP) 
+ 3.Domain naming system(DNS):-
+ 4.Ports:-
+ 5.Subnetting:-
+ 6.Routing:-
+ 7.VPN:-
+ 8.firewall and security groups
+ 9.HTTP/HTTPS
+ 8.Netwoking tools:-
